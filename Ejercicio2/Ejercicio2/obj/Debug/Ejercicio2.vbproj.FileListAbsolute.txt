@@ -1,0 +1,12 @@
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbprojAssemblyReference.cache
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Resources.resources
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.GenerateResource.cache
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.CoreCompileInputs.cache
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.xml
+E:\02 Computación e Informática\4 Ciclo\Taller de Programación Concurrente\Proyectos\Semana4\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
